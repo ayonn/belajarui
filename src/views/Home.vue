@@ -7,10 +7,10 @@
       <div class="bg-gray-400 absolute top-0 right-0 h-16 w-16  ">
         <div class="bg-gray-400 " style="width:400px; height:auto;">
           <div class="bg-gray-300">
-            <h3>username</h3>
+            <h3>username :</h3>
           </div>
           <div class="bg-gray-300">
-            <h3>password</h3>
+            <h3>password :</h3>
           </div>
           <div class="bg-gray-300">
           <h3>login form</h3>
