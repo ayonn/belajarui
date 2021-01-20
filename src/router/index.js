@@ -20,6 +20,7 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/About.vue")
   }
 ];
+// komen
 
 const router = new VueRouter({
   mode: "history",
